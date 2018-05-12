@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '32778'
     url: http://www.gutenberg.org/2009/agents/32778
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27573#Esprit-des-loislivres-I---V-pr-c-d-s-d-une-introduction-de-l--diteur
 gutenberg_bookshelf:
 - Banned Books from Anne Haight's list
 - FR Politique
