@@ -1,0 +1,47 @@
+_repo: Esprit-des-loislivres-I---V-pr-c-d-s-d-une-introduction-de-l--diteur_27573
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Montesquieu, Charles de Secondat, baron de
+    aliases:
+    - Montesquieu, Charles Louis de Secondat, baron de La Brède et de
+    - Montesquieu, Charles Louis de Secondat, baron de La Brede et de
+    birthdate: 1689
+    deathdate: 1755
+    gutenberg_agent_id: '26352'
+    url: http://www.gutenberg.org/2009/agents/26352
+    wikipedia: http://en.wikipedia.org/wiki/Charles_de_Secondat%2C_baron_de_Montesquieu
+  editor:
+    agent_name: Janet, Paul
+    aliases:
+    - Janet, Paul Alexandre René
+    - Janet, Paul Alexandre Rene
+    birthdate: 1823
+    deathdate: 1899
+    gutenberg_agent_id: '32778'
+    url: http://www.gutenberg.org/2009/agents/32778
+description: ''
+gutenberg_bookshelf:
+- Banned Books from Anne Haight's list
+- FR Politique
+gutenberg_issued: '2008-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27573'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JC'
+- !lcsh 'Law -- Philosophy'
+- !lcsh 'Political science'
+- !lcsh 'Jurisprudence'
+- !lcsh 'State, The'
+title: 'Esprit des lois
+
+  livres I à V, précédés d''une introduction de l''éditeur'
+url: http://www.gutenberg.org/ebooks/27573
